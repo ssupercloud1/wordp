@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordp/static/css/main.9b8c8410.css",
+    "main.js": "/wordp/static/js/main.2a702cbd.js",
+    "static/js/787.013ae287.chunk.js": "/wordp/static/js/787.013ae287.chunk.js",
+    "index.html": "/wordp/index.html",
+    "main.9b8c8410.css.map": "/wordp/static/css/main.9b8c8410.css.map",
+    "main.2a702cbd.js.map": "/wordp/static/js/main.2a702cbd.js.map",
+    "787.013ae287.chunk.js.map": "/wordp/static/js/787.013ae287.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8c8410.css",
+    "static/js/main.2a702cbd.js"
+  ]
+}
