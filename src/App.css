@@ -15,7 +15,7 @@
   align-items: center;
   justify-content: center;
   width: 100%;
-  padding: 20px;
+  padding: 10px;
 }
 
 .navbar {
@@ -39,9 +39,9 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  width: 100%;
+  width: 80%;
   background-color: navy;
-  padding: 20px;
+  padding: 10px;
 }
 
 .title {
@@ -84,7 +84,7 @@ button:disabled {
 }
 
 .rate-speed-container {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 label {
@@ -102,5 +102,5 @@ select {
 }
 
 button:last-child {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
