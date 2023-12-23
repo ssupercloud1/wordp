@@ -41,11 +41,11 @@ function App() {
       <header className="header">
         <nav className="navbar">
           <a href="https://www.financingfix.com" target="_blank" rel="noopener noreferrer" className="nav-link">
-            Visit Our Website
+            Home
           </a>
         </nav>
         <div className="ribbon">
-          <h1 className="title">Word Reader</h1>
+          <h1 className="title">WordP: Word Reader</h1>
         </div>
       </header>
       <main className="main">
