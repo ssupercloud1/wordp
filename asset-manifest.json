@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wordp/static/css/main.afd0a54a.css",
-    "main.js": "/wordp/static/js/main.53cd12c7.js",
-    "static/js/787.013ae287.chunk.js": "/wordp/static/js/787.013ae287.chunk.js",
-    "index.html": "/wordp/index.html",
-    "main.afd0a54a.css.map": "/wordp/static/css/main.afd0a54a.css.map",
-    "main.53cd12c7.js.map": "/wordp/static/js/main.53cd12c7.js.map",
-    "787.013ae287.chunk.js.map": "/wordp/static/js/787.013ae287.chunk.js.map"
+    "main.css": "/static/css/main.afd0a54a.css",
+    "main.js": "/static/js/main.b0897ae2.js",
+    "static/js/787.013ae287.chunk.js": "/static/js/787.013ae287.chunk.js",
+    "index.html": "/index.html",
+    "main.afd0a54a.css.map": "/static/css/main.afd0a54a.css.map",
+    "main.b0897ae2.js.map": "/static/js/main.b0897ae2.js.map",
+    "787.013ae287.chunk.js.map": "/static/js/787.013ae287.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afd0a54a.css",
-    "static/js/main.53cd12c7.js"
+    "static/js/main.b0897ae2.js"
   ]
 }
